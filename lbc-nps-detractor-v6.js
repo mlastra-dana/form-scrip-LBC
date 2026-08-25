@@ -11,7 +11,7 @@
     title: "Gracias por contarnos tu experiencia.",
     subtitle: "Queremos entender qué podemos mejorar para brindarte una atención más clara, simple y cercana.",
     introCardTitle: "Tu opinión nos ayuda a mejorar.",
-    introCardText: "Selecciona una o varias opciones y envía tu respuesta. En este flujo no mostraremos ofertas comerciales.",
+    introCardText: "Selecciona una o varias opciones y envía tu respuesta.",
     questionLiId: "li_1",
     buttonsLiId: "li_buttons",
     submitId: "submit_form"
